@@ -570,7 +570,7 @@ h6 {
 .devices {
   width: 100%;
   padding-top: 109px;
-  background: url(/assets/images/devices/devices_bg.jpg) center no-repeat;
+  background: url(../images/devices/devices_bg.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -1195,7 +1195,7 @@ h6 {
 .people {
   width: 100%;
   padding: 109px 0 129px 0;
-  background: url(/assets/images/people/background.jpg) center no-repeat;
+  background: url(../images/people/background.jpg) center no-repeat;
   background-size: cover;
 }
 
@@ -1426,7 +1426,7 @@ h6 {
 .map {
   width: 100%;
   padding: 57px 0 57px 0;
-  background: url(/assets/images/map/map.jpg) center no-repeat;
+  background: url(../images/map/map.jpg) center no-repeat;
   background-size: cover;
 }
 
